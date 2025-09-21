@@ -39,7 +39,7 @@ It offers a clean, modern UI and useful sections like featured listings, custome
 ## Screenshots
 
 <!-- Include a few images/screenshots here. Example: -->
-![Home Page](path/to/homepage_screenshot.png)  
+![Home Page](screenshot.png)  
 
 
 ---

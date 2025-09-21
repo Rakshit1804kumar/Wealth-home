@@ -10,10 +10,7 @@
 - [Features](#features)  
 - [Screenshots](#screenshots)  
 - [Technologies Used](#technologies-used)  
-- [Getting Started](#getting-started)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Getting Started](#getting-started) 
 - [Author](#author)
 
 ---
@@ -68,6 +65,6 @@ To run this project locally:
 3. Open index.html in your browser, or serve via a live server to see changes in real time.
 
 
-
+##author
 **Made with ❤️ by [Rakshit Kumar](https://github.com/Rakshit1804kumar)**
 

@@ -1,6 +1,6 @@
 # Wealth-Home 🏡
 
-[Live Demo](https://rakshit1804kumar.github.io/Wealth-home/) • [Source Code](https://github.com/Rakshit1804kumar/Wealth-home)
+[Live Demo](https://rakshit1804kumar.github.io/Wealth-home/) 
 
 ---
 
@@ -40,7 +40,7 @@ It offers a clean, modern UI and useful sections like featured listings, custome
 
 <!-- Include a few images/screenshots here. Example: -->
 ![Home Page](path/to/homepage_screenshot.png)  
-![Property Listing](path/to/listing_screenshot.png)  
+
 
 ---
 

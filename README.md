@@ -39,7 +39,7 @@ It offers a clean, modern UI and useful sections like featured listings, custome
 ## Screenshots
 
 <!-- Include a few images/screenshots here. Example: -->
-![Home Page](screenshot.png)  
+![Home Page](https://github.com/Rakshit1804kumar/Wealth-home/blob/main/screenshot.png)  
 
 
 ---

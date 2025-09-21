@@ -49,9 +49,9 @@ It offers a clean, modern UI and useful sections like featured listings, custome
 | Tool / Library | Purpose |
 |----------------|---------|
 | HTML5 & CSS3 | Layout & styling |
-| JavaScript | Interactivity (if any) |
-| (Optional) CSS Framework / UI libraries | For responsiveness, icons, etc. |
-| jQuery / Vanilla JS | (If used) dynamic behavior |
+| JavaScript | Interactivity  |
+| CSS Framework / UI libraries | For responsiveness, icons, etc. |
+ 
 
 ---
 

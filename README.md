@@ -65,6 +65,6 @@ To run this project locally:
 3. Open index.html in your browser, or serve via a live server to see changes in real time.
 
 
-##author
+## Author
 **Made with ❤️ by [Rakshit Kumar](https://github.com/Rakshit1804kumar)**
 
